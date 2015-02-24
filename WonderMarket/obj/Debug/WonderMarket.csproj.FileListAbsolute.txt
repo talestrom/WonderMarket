@@ -1,0 +1,5 @@
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\bin\Debug\WonderMarket.dll
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\bin\Debug\WonderMarket.pdb
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\obj\Debug\WonderMarket.dll
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\obj\Debug\WonderMarket.pdb

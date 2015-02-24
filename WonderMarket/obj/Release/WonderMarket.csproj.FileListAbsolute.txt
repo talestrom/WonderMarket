@@ -1,0 +1,10 @@
+C:\Users\chvostik\AppData\Local\Temporary Projects\WonderMarket\bin\Release\WonderMarket.dll
+C:\Users\chvostik\AppData\Local\Temporary Projects\WonderMarket\bin\Release\WonderMarket.pdb
+C:\Users\chvostik\AppData\Local\Temporary Projects\WonderMarket\obj\Release\ResolveAssemblyReference.cache
+C:\Users\chvostik\AppData\Local\Temporary Projects\WonderMarket\obj\Release\WonderMarket.dll
+C:\Users\chvostik\AppData\Local\Temporary Projects\WonderMarket\obj\Release\WonderMarket.pdb
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\bin\Release\WonderMarket.dll
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\bin\Release\WonderMarket.pdb
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\obj\Release\ResolveAssemblyReference.cache
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\obj\Release\WonderMarket.dll
+C:\Users\chvostik\documents\visual studio 2010\Projects\WonderMarket\WonderMarket\obj\Release\WonderMarket.pdb
